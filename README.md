@@ -65,9 +65,9 @@ public/projects/
 
 You can replace these files while keeping the same names:
 
-- `slack-agent.svg`
-- `documind.svg`
-- `website-chatbot.svg`
+- `slack-agent.png`
+- `documind.png`
+- `website-chatbot.png`
 - `shopify-assistant.png`
 
 Recommended image ratio: **16:9**, such as 1600 × 900 pixels.

@@ -22,7 +22,7 @@ export const projects: Project[] = [
       "An AI agent that answers business questions and performs real actions in a connected spreadsheet.",
     overview:
       "This project demonstrates an agentic workflow inside Slack. Users can ask questions in natural language, retrieve relevant business information, and trigger structured actions without leaving the conversation.",
-    image: "/projects/slack-agent.svg",
+    image: "/projects/slack-agent.png",
     videoId: "cnqwSztGkGk",
     badge: "Working Demo",
     technologies: ["Python", "LangGraph", "Slack API", "LLM API", "Google Sheets API"],
@@ -46,7 +46,7 @@ export const projects: Project[] = [
       "Upload a document, ask questions, and receive grounded answers with page and source references.",
     overview:
       "DocuMind is a retrieval-augmented generation application for working with documents. It processes uploaded files, retrieves relevant chunks, and creates answers supported by the original source.",
-    image: "/projects/documind.svg",
+    image: "/projects/documind.png",
     videoId: "ubsdu7px8ho",
     badge: "Live Project Demo",
     technologies: ["Python", "LangChain", "Streamlit", "Embeddings", "Vector Database"],
@@ -70,7 +70,7 @@ export const projects: Project[] = [
       "A website assistant that answers customer questions using approved website content and business knowledge.",
     overview:
       "This project turns website content into a focused knowledge source for an AI chatbot. The assistant provides relevant answers instead of generic model responses.",
-    image: "/projects/website-chatbot.svg",
+    image: "/projects/website-chatbot.png",
     badge: "Add Your Screenshot",
     technologies: ["Python", "RAG", "LangChain", "Web Content", "Embeddings"],
     features: [
